@@ -1,0 +1,7 @@
+# AcmeDemoBundle routes (to be removed)
+_acme_demo:
+    resource: "@AcmeDemoBundle/Resources/config/routing.yml"
+acme2_test:
+    resource: "@Acme2TestBundle/Resources/config/routing.yml"
+    prefix:   /
+
